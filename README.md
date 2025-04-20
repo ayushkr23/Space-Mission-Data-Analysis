@@ -110,18 +110,6 @@ All visualizations were created using `matplotlib` and `seaborn`, including:
 
 ---
 
-## 📄 Full Project Report
-
-The full report includes:
-
-- Dataset description
-- Cleaning & preprocessing steps
-- Objective-wise analysis
-- Statistical results and visualizations
-- Conclusion & extended future scope
-
-📥 [Report.docx]() (Attach file in the GitHub repo)
-
 ---
 
 ## 📌 How to Run the Code
