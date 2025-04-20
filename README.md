@@ -11,7 +11,7 @@ From success rates to cost trends and country-wise contributions — this dashbo
 
 🎓 **Course:** INT 375 – Data Science Toolbox
 🏫 **Institution:** Lovely Professional University
-👨‍🎓 **Submitted By:** Ayush Kumar (Reg. No. 12321643)
+👨‍🎓 **Submitted By:** Ayush Kumar
 👩‍🏫 **Guide:** Dr. Tanima Thakur
 
 ---
