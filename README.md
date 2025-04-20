@@ -10,15 +10,18 @@ From success rates to cost trends and country-wise contributions — this dashbo
 **Space Mission Launch Analysis**
 
 🎓 **Course:** INT 375 – Data Science Toolbox
+
 🏫 **Institution:** Lovely Professional University
-👨‍🎓 **Submitted By:** Ayush Kumar (Reg. No. 12321643)
+
+👨‍🎓 **Submitted By:** Ayush Kumar
+
 👩‍🏫 **Guide:** Dr. Tanima Thakur
 
 ---
 
 ## 📊 Dataset Overview
 
-**Source:** [Maven Analytics - Space Missions Dataset](https://www.mavenanalytics.io/data-playground/dataset/space-missions/)
+**Source:** [Maven Analytics - Space Missions Dataset](https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=space%20missions)
 
 This dataset includes detailed launch records from 1957 to 2022, covering space agencies and companies like NASA, SpaceX, ISRO, Roscosmos, and more.
 
@@ -107,8 +110,6 @@ All visualizations were created using `matplotlib` and `seaborn`, including:
 - Include mission payload, orbit type, and purpose for deeper analysis
 - Build an interactive dashboard using Streamlit or Plotly Dash
 - Explore the environmental impact of launches (fuel, emissions)
-
----
 
 ---
 
