@@ -110,8 +110,6 @@ All visualizations were created using `matplotlib` and `seaborn`, including:
 
 ---
 
----
-
 ## 📌 How to Run the Code
 
 1. Clone this repo:
