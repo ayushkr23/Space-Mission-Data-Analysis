@@ -7,7 +7,7 @@ From success rates to cost trends and country-wise contributions — this dashbo
 
 ## 📁 Project Title
 
-**Space Mission Launch Analysis**
+**Space Mission Launch Analysis** 
 
 🎓 **Course:** INT 375 – Data Science Toolbox
 
