@@ -21,7 +21,7 @@ From success rates to cost trends and country-wise contributions — this dashbo
 
 ## 📊 Dataset Overview
 
-**Source:** [Maven Analytics - Space Missions Dataset](https://www.mavenanalytics.io/data-playground/dataset/space-missions/)
+**Source:** [Maven Analytics - Space Missions Dataset](https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=space%20missions)
 
 This dataset includes detailed launch records from 1957 to 2022, covering space agencies and companies like NASA, SpaceX, ISRO, Roscosmos, and more.
 
