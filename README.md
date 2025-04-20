@@ -10,8 +10,11 @@ From success rates to cost trends and country-wise contributions — this dashbo
 **Space Mission Launch Analysis**
 
 🎓 **Course:** INT 375 – Data Science Toolbox
+
 🏫 **Institution:** Lovely Professional University
+
 👨‍🎓 **Submitted By:** Ayush Kumar
+
 👩‍🏫 **Guide:** Dr. Tanima Thakur
 
 ---
