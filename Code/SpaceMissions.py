@@ -1,5 +1,5 @@
 # SPACE MISSION DASHBOARD (ANALYSIS)
-# Using numpy, pandas, matplotlib, seaborn — styled like air quality analysis
+# Using numpy, pandas, matplotlib, seaborn — air quality analysis
 
 import math
 import pandas as pd
